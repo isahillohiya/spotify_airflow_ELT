@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw_src
+    database: SPOTIFY_DB_ELT  
+    schema: RAW  
+    tables:
+      - name: SPOTIFY_RAW
+

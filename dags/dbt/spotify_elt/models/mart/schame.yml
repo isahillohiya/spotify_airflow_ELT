@@ -1,0 +1,13 @@
+version: 2
+
+model:
+  - name: dim_album
+
+
+
+  - name: dim_artists
+
+
+
+  - name: fact_songs
+
