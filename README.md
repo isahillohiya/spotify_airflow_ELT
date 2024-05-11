@@ -1,4 +1,4 @@
-# Data Pipeline: Spotify ELT to Snowflake Data Warehouse
+# ELT  Data Pipeline: Spotify to Snowflake Data Warehouse
 
 This data pipeline leverages an ELT (Extract, Load, Transform) approach to automate the process of extracting JSON data from the Spotify API, loading it into a Snowflake data warehouse, and then transforming it within the warehouse.
 
